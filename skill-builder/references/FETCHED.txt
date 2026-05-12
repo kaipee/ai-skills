@@ -1,0 +1,7 @@
+Fetched: 2026-05-08T03:13:47Z
+Epoch: 1778210027
+ScriptVersion: 3.0
+Sources:
+  - https://agentskills.io/llms-full.txt
+  - https://agentskills.io/specification.md
+  - https://raw.githubusercontent.com/anthropics/skills/main/...

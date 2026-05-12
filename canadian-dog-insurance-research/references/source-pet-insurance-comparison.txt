@@ -1,0 +1,475 @@
+﻿Name
+	Emergency1
+	Specialists2
+	Hospitalization3
+	Dental4
+	Preventative/ Routine Care 5
+	Exam Fees 6
+	Preventable7
+	Chronic8
+	Pre-Existing 9
+	Physical Therapy 10
+	Foreign Body Removal 11
+	Medication 12
+	Alternative13
+	Experimental14
+	Behavioral 15
+	Organ Transplants 16
+	Require Annual Exam 17
+	Require Exam Prior to Coverage 18
+	Televet or Vet Hotline19
+	Deductible Options 20
+	Annual Limit Options 21
+	Reimbursement Options 22
+	Min Cost Per Month 23
+	Max Cost Per Month 24
+	Discounts 25
+	AKC
+	Yes
+	Yes
+	Yes
+	No
+	Add-on
+	Add-on
+	No
+	Add-on
+	Yes, after a one year waiting period 
+	Yes
+	Will cover once
+	Yes
+	Yes
+	No
+	Yes, up to $1k annually
+	No
+	Yes
+	No
+	Yes
+	$100, $250, $300, $400, $500, $600, $750, $1k
+	$2.5k, $5k, $7.5k, $10k
+	70%, 80%, 90%
+	$8.95
+	$52.07
+	5% Multi-pet, Military
+	ASPCA*
+	Yes
+	Yes
+	Yes
+	Yes
+	Add-on
+	Yes
+	No
+	Yes
+	Curable yes, otherwise no
+	Yes
+	Yes
+	Yes
+	Yes
+	No
+	Yes
+	No
+	No
+	No
+	Yes
+	$100, $250, $500
+	$2.5k, $5k, $7k, $10k
+	70%, 80%, 90%
+	$7.57
+	$35.63
+	10% Multi-pet
+	Embrace
+	Yes
+	Yes
+	Yes
+	Yes, with a $1k annual limit
+	Add-on
+	Add-on
+	No
+	Yes
+	Curable yes, otherwise no
+	Yes
+	Will cover once
+	Add-on
+	Add-on
+	No
+	Yes
+	No
+	No
+	Must have been examined in the 12 months prior to policy effective date
+	Yes
+	$100, $250, $500, $750, $1k
+	$5k, $8k, $10k, $15k, Unlimited
+	70%, 80%, 90%
+	$14.71
+	$52.54
+	10% Multi-pet, 5% Military
+	Felix*
+	Yes
+	Yes
+	Yes
+	No
+	Add-on
+	Add-on
+	No
+	Add-on
+	Yes, after a one year waiting period
+	Yes
+	Will cover once
+	Yes
+	Yes
+	No
+	Yes, up to $1k annually
+	No
+	Yes
+	No
+	Yes
+	$100, $250, $500
+	$1k, $2.5k, $5k, $7.5k, $10k
+	70%, 80%, 90%
+	$8.89
+	$52.07
+	5% Multi-pet, Military
+	Fetch
+	Yes
+	Yes
+	Yes
+	Yes
+	Add-on
+	Yes
+	No
+	Yes
+	Curable yes, otherwise no
+	Yes
+	Yes
+	Yes
+	Yes
+	No
+	Yes, up to $1k per year
+	Yes, if pre-approved
+	Yes
+	No, if have records within past 6 months
+	Covers up to $1k per year
+	$250, $300, $400
+	$5k, $10k, $15k, $20k, $25k, Unlimited 
+	70%, 80%, 90%
+	$21.66
+	$23.73
+	Military
+	Figo
+	Yes
+	Yes
+	Yes
+	Yes, if approved by their medical director
+	Add-on
+	Add-on
+	No
+	Yes
+	Curable yes, otherwise no
+	Add-on
+	Will cover three times; after that, no
+	Yes
+	Add-on
+	No
+	Add-on
+	Possibly
+	Yes and annual dental exam and, if recommended, teeth cleaning
+	No
+	Yes
+	$100, $250, $500, $750
+	$5k, $10k, Unlimited
+	70%, 80%, 90%, 100%
+	$7.10
+	$44.66
+	5% Multi-pet, 15% Costco Member, 5% Military
+	Hartville*
+	Yes
+	Yes
+	Yes
+	Yes
+	Add-on
+	Yes
+	No
+	Yes
+	Curable yes, otherwise no
+	Yes
+	Yes
+	Yes
+	Yes
+	No
+	Yes
+	No
+	No
+	No
+	Yes
+	$100, $250, $500
+	$2.5k, $4k, $5k, $7k, $10k
+	70%, 80%, 90%
+	$12.29
+	$57.87
+	Vet Staff, 10% Multi-pet
+	Healthy Paws
+	Yes
+	Yes
+	Yes
+	Yes, if caused by a traumatic accident.
+	No
+	No
+	No
+	Probably
+	No
+	Probably
+	Yes
+	Yes
+	No
+	No
+	No
+	Yes
+	No
+	If less than 6 yrs old, must have an exam 12 months prior to enrollment. If older than 6, must have an exam 30 days prior to enrollment.
+	No
+	$100, $250, $500, $1000
+	Unlimited
+	70%, 80%, 90%
+	$13.90
+	$35.67
+	None
+	Lemonade
+	Yes
+	Yes
+	Yes
+	Add-on
+	Add-on
+	Add-on
+	No
+	Yes
+	Curable yes, otherwise no
+	Add-on
+	Two times per year, might deny after that
+	Yes
+	No
+	No
+	Add-on
+	Yes, if pre-approved
+	No
+	No, if have records within past 18 months
+	No, but might cover Chewy’s televet
+	$100, $250, $500, $750
+	$5k, $10k, $20k, $50k, $100k
+	60%, 70%, 80%, 90%
+	$11.00
+	$22.62
+	10% Existing Customer, 5% Multi-pet, 5% Annual payment
+	ManyPets
+	Yes
+	Yes
+	Yes
+	Possibly
+	Add-on
+	Yes
+	No
+	Yes
+	Curable yes, otherwise no
+	Yes
+	Possibly
+	Yes
+	Yes, if administered by a vet
+	No
+	No
+	Possibly
+	Yes
+	Possibly; depends on state you’re in
+	Yes
+	$500, $750, $1k
+	Unlimited
+	70%, 80%
+	$8.51
+	$16.82
+	None
+	MetLife
+	Yes
+	Yes
+	Yes
+	Yes
+	Add-on
+	Yes
+	No
+	Yes
+	No
+	Yes
+	Yes
+	Yes
+	Yes
+	Did not get a straight answer
+	Did not get a straight answer
+	Did not get a straight answer
+	No
+	Did not get a straight answer
+	Yes
+	$50, $100, $250, $500
+	$2k, $5k, $10k
+	70%, 80%, 90%
+	$17.31
+	$42.49
+	10% Vet Staff, 10% Military, Veteran, 1st Responder, and Healthcare Worker
+	Odie*
+	Yes
+	Yes
+	Yes
+	Yes for disease if no signs of disease prior to policy effective date and, from three years of age, pet’s teeth are cleaned every 13 months. Yes for traumatic fractures if not caused by repetitive inappropriate chewing behavior.
+	Add-on
+	Add-on
+	No
+	Yes
+	Yes, if the condition was not present in any way in the 18 months preceding the policy effective date.
+	Add-on
+	Will cover two times within 18 months; after that, no.
+	Add-on; most covered, not all
+	No
+	No
+	No
+	Yes
+	Yes
+	No, if have records within past 18 months
+	Yes
+	$250, $500
+	$10k, $40k
+	90%
+	$7.86
+	$12.04
+	Military, Vet Staff, Multi-Pet
+	Pets’ Best
+	Yes
+	Yes
+	Yes
+	Yes, if not caused by inappropriate chewing behavior and if no signs present before the policy effective date.
+	Add-on
+	Add-on
+	No
+	Yes
+	No
+	Add-on
+	Will cover two times within 18 months; after that, no
+	Yes
+	No
+	No
+	No
+	No
+	No
+	No
+	Yes
+	$50, $100, $200, $250, $500, $1k
+	$5k, Unlimited
+	70%, 80%, 90%
+	$9.88
+	$50.28
+	5% Multi-pet, Vet Staff, Military, AAA member
+	Pumpkin
+	Yes
+	Yes
+	Yes
+	Yes
+	Add-on
+	Yes
+	No
+	Yes
+	Curable yes, otherwise no
+	Yes
+	Yes
+	Yes
+	Yes
+	No
+	Yes
+	No
+	No
+	No
+	Possibly will cover
+	$100, $250, $500, $1k
+	$5k, $7k, $15k, Unlimited
+	90%
+	$18.03
+	$86.28
+	10% Multi-pet, Vet Staff
+	Spot*
+	Yes
+	Yes
+	Yes
+	Yes
+	Add-on
+	Yes
+	No
+	Yes
+	Curable yes, otherwise no
+	Yes
+	Yes
+	Yes
+	Yes
+	No
+	Yes
+	No
+	No
+	No
+	Yes
+	$100, $250, $500, $750, $1k
+	$2.5k, $3k, $4k, $5k, $7k, $10k, Unlimited
+	70%, 80%, 90%
+	$23.11
+	$85.55
+	10% Multi-pet
+	Trupanion
+	Yes
+	Yes
+	Yes
+	Yes, if teeth are examined every 12 months and some other conditions.
+	No
+	No
+	No
+	Yes
+	Yes, if the condition was no present in any way in the 18 months preceding the policy effective date.
+	Add-on
+	Yes
+	Yes
+	Add-on
+	No
+	Add-on
+	Yes
+	Yes, for dental
+	No, if have records within past 12 months
+	No
+	$0-$1000
+	Unlimited
+	90%
+	$17.51
+	$55.88
+	None
+	
+
+Notes: 
+This reflects results from September 2024 for Atlanta, Georgia, based on sample plans from their websites and phone conversations with customer service agents. Some insurances will offer different combinations of deductible/annual limit/reimbursement percentage if you call them.
+All prices are those for a healthy, one year old male domestic shorthair cat who has been neutered with no discounts applied. May vary depending on your kitty and situation.
+ALWAYS READ YOUR PERSONAL POLICY CAREFULLY!! A lot of research went into this but it is NOT completely comprehensive and there’s NO guarantee that everything is 100% accurate. Call any insurance company prior to signing with them to ask them for details. 
+If you have any questions on anything, feel free to DM me at u/Azelais.
+* Insurances that offer “Accident Only” plans that cover traumatic, unexpected injury but not illness or disease; these plans are usually much cheaper than the full-coverage plans.
+1 If they cover emergency vet treatment, like those at 24/7 pet hospital. Does not necessarily mean they’ll cover a pet ambulance, though.
+2 If they cover specialists, like pet neurologists, ENTs, etc.
+3 If they cover hospitalization.
+4 If dental injuries or diseases are covered. Pet insurances tend to be really picky about what exactly is covered and when and under what conditions for this one, so read your policy carefully. Notes in chart above are just an overview and may not contain every clause.
+5 Routine, preventative care, like teeth cleanings, vaccinations, wellness exams, etc.
+6 If they’ll pay for the actual exam fee cost.
+7 If it covers things that could be caused by not properly protecting your pet, such as your pet contracting a disease for which there is a vaccine for.
+8 If they cover re-occurring, chronic illnesses or injuries.
+9 If they’ll cover injuries/diseases/etc that occurred prior to sign up. One word you may see mentioned here a lot is “curable conditions” – a lot of pet insurance companies won’t cover all pre-existing conditions, but will cover those that can be cured, so long as there are no symptoms or treatment for a certain amount of time (usually 12-16 months).
+10 Physical therapy and rehabilitation. May include acupuncture, chiropractic, cryotherapy, heat therapy, treadmill therapy, etc. Each policy covers slightly different treatments, so check each company’s specifically.
+11 If they’ll cover surgery/induction of vomiting if your pet eats something they shouldn’t. Most companies tend to be kind of picky for this one, so read carefully.
+12 If it covered medication costs. Usually will not cover ALL medications, just the vast majority of commonly used ones; check their website to see what is and isn’t covered.
+13 Things like acupuncture, homeopathic and herbal medicines, etc.
+14 If they cover experimental drugs, like clinical trials.
+15 If they cover treatment for behavioral issues.
+16 If they cover organ and heart valve transplants. This usually takes the form of kidney transplants in cats, but it’s a very rare and dubiously ethical procedure, so probably don’t let them not covering it be a deciding factor.
+17 Some insurances write in the fine print that they require a wellness exam be done every 12 months or so, or else they won’t pay out.
+18 When they require the most recent exam to have been done on your pet.
+19 If they cover 24/7 televets or vet hotlines. Some companies offer their own, some cover using (for example) Chewy’s telehealth service, some don’t cover at all.
+20 What amount you’ll have to pay out of pocket every year before they start covering.
+21 The max amount the insurance will pay out every year. On a few pet insurances, the number listed might be the lifetime limit they’ll pay out. Double check before signing up.
+22 Percent of bill that they’ll cover after deductible is met.
+23 Price with the highest deductible, lowest reimbursement rate, and lowest annual limit. As cheap as you can get without discounts.
+24 Price with the lowest deductible, highest reimbursement rate, and highest annual limit. As expensive as you can get without add-ons.
+25 Check with your job too, some of them have deals with pet insurance companies.
