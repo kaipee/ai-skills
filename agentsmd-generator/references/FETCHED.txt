@@ -1,0 +1,5 @@
+Fetched: 2026-05-27T20:08:29Z
+Epoch: 1779912509
+Sources:
+  - https://agents.md/ (upstream spec homepage)
+  - https://raw.githubusercontent.com/agentsmd/agents.md/main/README.md
